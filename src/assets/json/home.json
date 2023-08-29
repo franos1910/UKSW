@@ -1,0 +1,404 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "en": "house",
+            "es": "casa",
+            "fr": "maison",
+            "pl": "dom",
+            "category": "home"
+        },
+        {
+            "id": "2",
+            "en": "room",
+            "es": "habitación",
+            "fr": "chambre",
+            "pl": "pokój",
+            "category": "home"
+        },
+        {
+            "id": "3",
+            "en": "kitchen",
+            "es": "cocina",
+            "fr": "cuisine",
+            "pl": "kuchnia",
+            "category": "home"
+        },
+        {
+            "id": "4",
+            "en": "bathroom",
+            "es": "baño",
+            "fr": "salle de bains",
+            "pl": "łazienka",
+            "category": "home"
+        },
+        {
+            "id": "5",
+            "en": "bedroom",
+            "es": "dormitorio",
+            "fr": "chambre à coucher",
+            "pl": "sypialnia",
+            "category": "home"
+        },
+        {
+            "id": "6",
+            "en": "living room",
+            "es": "sala de estar",
+            "fr": "salon",
+            "pl": "salon",
+            "category": "home"
+        },
+        {
+            "id": "7",
+            "en": "dining room",
+            "es": "comedor",
+            "fr": "salle à manger",
+            "pl": "jadalnia",
+            "category": "home"
+        },
+        {
+            "id": "8",
+            "en": "garden",
+            "es": "jardín",
+            "fr": "jardin",
+            "pl": "ogród",
+            "category": "home"
+        },
+        {
+            "id": "9",
+            "en": "door",
+            "es": "puerta",
+            "fr": "porte",
+            "pl": "drzwi",
+            "category": "home"
+        },
+        {
+            "id": "10",
+            "en": "window",
+            "es": "ventana",
+            "fr": "fenêtre",
+            "pl": "okno",
+            "category": "home"
+        },
+        {
+            "id": "11",
+            "en": "roof",
+            "es": "techo",
+            "fr": "toit",
+            "pl": "dach",
+            "category": "home"
+        },
+        {
+            "id": "12",
+            "en": "floor",
+            "es": "piso",
+            "fr": "étage",
+            "pl": "piętro",
+            "category": "home"
+        },
+        {
+            "id": "13",
+            "en": "wall",
+            "es": "pared",
+            "fr": "mur",
+            "pl": "ściana",
+            "category": "home"
+        },
+        {
+            "id": "14",
+            "en": "ceiling",
+            "es": "techo",
+            "fr": "plafond",
+            "pl": "sufit",
+            "category": "home"
+        },
+        {
+            "id": "15",
+            "en": "furniture",
+            "es": "muebles",
+            "fr": "meubles",
+            "pl": "meble",
+            "category": "home"
+        },
+        {
+            "id": "16",
+            "en": "table",
+            "es": "mesa",
+            "fr": "table",
+            "pl": "stół",
+            "category": "home"
+        },
+        {
+            "id": "17",
+            "en": "chair",
+            "es": "silla",
+            "fr": "chaise",
+            "pl": "krzesło",
+            "category": "home"
+        },
+        {
+            "id": "18",
+            "en": "sofa",
+            "es": "sofá",
+            "fr": "canapé",
+            "pl": "kanapa",
+            "category": "home"
+        },
+        {
+            "id": "19",
+            "en": "bed",
+            "es": "cama",
+            "fr": "lit",
+            "pl": "łóżko",
+            "category": "home"
+        },
+        {
+            "id": "20",
+            "en": "lamp",
+            "es": "lámpara",
+            "fr": "lampe",
+            "pl": "lampa",
+            "category": "home"
+        },
+        {
+            "id": "21",
+            "en": "mirror",
+            "es": "espejo",
+            "fr": "miroir",
+            "pl": "lustro",
+            "category": "home"
+        },
+        {
+            "id": "22",
+            "en": "carpet",
+            "es": "alfombra",
+            "fr": "tapis",
+            "pl": "dywan",
+            "category": "home"
+        },
+        {
+            "id": "23",
+            "en": "curtain",
+            "es": "cortina",
+            "fr": "rideau",
+            "pl": "zasłona",
+            "category": "home"
+        },
+        {
+            "id": "24",
+            "en": "shelf",
+            "es": "estante",
+            "fr": "étagère",
+            "pl": "półka",
+            "category": "home"
+        },
+        {
+            "id": "25",
+            "en": "bookshelf",
+            "es": "estantería",
+            "fr": "bibliothèque",
+            "pl": "regal",
+            "category": "home"
+        },
+        {
+            "id": "26",
+            "en": "wardrobe",
+            "es": "armario",
+            "fr": "garde-robe",
+            "pl": "szafa",
+            "category": "home"
+        },
+        {
+            "id": "27",
+            "en": "toilet",
+            "es": "inodoro",
+            "fr": "toilettes",
+            "pl": "toaleta",
+            "category": "home"
+        },
+        {
+            "id": "28",
+            "en": "shower",
+            "es": "ducha",
+            "fr": "douche",
+            "pl": "prysznic",
+            "category": "home"
+        },
+        {
+            "id": "29",
+            "en": "bathtub",
+            "es": "bañera",
+            "fr": "baignoire",
+            "pl": "wanna",
+            "category": "home"
+        },
+        {
+            "id": "30",
+            "en": "sink",
+            "es": "lavabo",
+            "fr": "lavabo",
+            "pl": "umywalka",
+            "category": "home"
+        },
+        {
+            "id": "31",
+            "en": "stove",
+            "es": "estufa",
+            "fr": "cuisinière",
+            "pl": "kuchenka",
+            "category": "home"
+        },
+        {
+            "id": "32",
+            "en": "refrigerator",
+            "es": "nevera",
+            "fr": "réfrigérateur",
+            "pl": "lodówka",
+            "category": "home"
+        },
+        {
+            "id": "33",
+            "en": "microwave",
+            "es": "microondas",
+            "fr": "micro-ondes",
+            "pl": "kuchenka mikrofalowa",
+            "category": "home"
+        },
+        {
+            "id": "34",
+            "en": "oven",
+            "es": "horno",
+            "fr": "four",
+            "pl": "piekarnik",
+            "category": "home"
+        },
+        {
+            "id": "35",
+            "en": "dishwasher",
+            "es": "lavavajillas",
+            "fr": "lave-vaisselle",
+            "pl": "zmywarka",
+            "category": "home"
+        },
+        {
+            "id": "36",
+            "en": "washing machine",
+            "es": "lavadora",
+            "fr": "machine à laver",
+            "pl": "pralka",
+            "category": "home"
+        },
+        {
+            "id": "37",
+            "en": "dryer",
+            "es": "secadora",
+            "fr": "sèche-linge",
+            "pl": "suszarka",
+            "category": "home"
+        },
+        {
+            "id": "38",
+            "en": "heater",
+            "es": "calefacción",
+            "fr": "chauffage",
+            "pl": "ogrzewanie",
+            "category": "home"
+        },
+        {
+            "id": "39",
+            "en": "air conditioner",
+            "es": "aire acondicionado",
+            "fr": "climatiseur",
+            "pl": "klimatyzacja",
+            "category": "home"
+        },
+        {
+            "id": "40",
+            "en": "fan",
+            "es": "ventilador",
+            "fr": "ventilateur",
+            "pl": "wentylator",
+            "category": "home"
+        },
+        {
+            "id": "41",
+            "en": "key",
+            "es": "llave",
+            "fr": "clé",
+            "pl": "klucz",
+            "category": "home"
+        },
+        {
+            "id": "42",
+            "en": "lock",
+            "es": "cerradura",
+            "fr": "serrure",
+            "pl": "zamek",
+            "category": "home"
+        },
+        {
+            "id": "43",
+            "en": "alarm",
+            "es": "alarma",
+            "fr": "alarme",
+            "pl": "alarm",
+            "category": "home"
+        },
+        {
+            "id": "44",
+            "en": "garage",
+            "es": "garaje",
+            "fr": "garage",
+            "pl": "garaż",
+            "category": "home"
+        },
+        {
+            "id": "45",
+            "en": "chimney",
+            "es": "chimenea",
+            "fr": "cheminée",
+            "pl": "kominek",
+            "category": "home"
+        },
+        {
+            "id": "46",
+            "en": "attic",
+            "es": "ático",
+            "fr": "grenier",
+            "pl": "strych",
+            "category": "home"
+        },
+        {
+            "id": "47",
+            "en": "basement",
+            "es": "sótano",
+            "fr": "sous-sol",
+            "pl": "piwnica",
+            "category": "home"
+        },
+        {
+            "id": "48",
+            "en": "driveway",
+            "es": "entrada",
+            "fr": "allée",
+            "pl": "podjazd",
+            "category": "home"
+        },
+        {
+            "id": "49",
+            "en": "garden",
+            "es": "jardín",
+            "fr": "jardin",
+            "pl": "ogród",
+            "category": "home"
+        },
+        {
+            "id": "50",
+            "en": "fence",
+            "es": "valla",
+            "fr": "clôture",
+            "pl": "ogrodzenie",
+            "category": "home"
+        }
+    ]
+}

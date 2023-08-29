@@ -1,0 +1,404 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "en": "football",
+            "es": "fútbol",
+            "fr": "football",
+            "pl": "piłka nożna",
+            "category": "sport"
+        },
+        {
+            "id": "2",
+            "en": "basketball",
+            "es": "baloncesto",
+            "fr": "basketball",
+            "pl": "koszykówka",
+            "category": "sport"
+        },
+        {
+            "id": "3",
+            "en": "swimming",
+            "es": "natación",
+            "fr": "natation",
+            "pl": "pływanie",
+            "category": "sport"
+        },
+        {
+            "id": "4",
+            "en": "tennis",
+            "es": "tenis",
+            "fr": "tennis",
+            "pl": "tenis",
+            "category": "sport"
+        },
+        {
+            "id": "5",
+            "en": "soccer",
+            "es": "fútbol",
+            "fr": "football",
+            "pl": "piłka nożna",
+            "category": "sport"
+        },
+        {
+            "id": "6",
+            "en": "baseball",
+            "es": "béisbol",
+            "fr": "baseball",
+            "pl": "baseball",
+            "category": "sport"
+        },
+        {
+            "id": "7",
+            "en": "volleyball",
+            "es": "voleibol",
+            "fr": "volleyball",
+            "pl": "siatkówka",
+            "category": "sport"
+        },
+        {
+            "id": "8",
+            "en": "hockey",
+            "es": "hockey",
+            "fr": "hockey",
+            "pl": "hokej",
+            "category": "sport"
+        },
+        {
+            "id": "9",
+            "en": "golf",
+            "es": "golf",
+            "fr": "golf",
+            "pl": "golf",
+            "category": "sport"
+        },
+        {
+            "id": "10",
+            "en": "running",
+            "es": "correr",
+            "fr": "course à pied",
+            "pl": "bieganie",
+            "category": "sport"
+        },
+        {
+            "id": "11",
+            "en": "cycling",
+            "es": "ciclismo",
+            "fr": "cyclisme",
+            "pl": "jazda na rowerze",
+            "category": "sport"
+        },
+        {
+            "id": "12",
+            "en": "swimming pool",
+            "es": "piscina",
+            "fr": "piscine",
+            "pl": "basen",
+            "category": "sport"
+        },
+        {
+            "id": "13",
+            "en": "gym",
+            "es": "gimnasio",
+            "fr": "salle de sport",
+            "pl": "siłownia",
+            "category": "sport"
+        },
+        {
+            "id": "14",
+            "en": "coach",
+            "es": "entrenador",
+            "fr": "entraîneur",
+            "pl": "trener",
+            "category": "sport"
+        },
+        {
+            "id": "15",
+            "en": "player",
+            "es": "jugador",
+            "fr": "joueur",
+            "pl": "zawodnik",
+            "category": "sport"
+        },
+        {
+            "id": "16",
+            "en": "team",
+            "es": "equipo",
+            "fr": "équipe",
+            "pl": "drużyna",
+            "category": "sport"
+        },
+        {
+            "id": "17",
+            "en": "match",
+            "es": "partido",
+            "fr": "match",
+            "pl": "mecz",
+            "category": "sport"
+        },
+        {
+            "id": "18",
+            "en": "tournament",
+            "es": "torneo",
+            "fr": "tournoi",
+            "pl": "turniej",
+            "category": "sport"
+        },
+        {
+            "id": "19",
+            "en": "score",
+            "es": "puntuación",
+            "fr": "score",
+            "pl": "wynik",
+            "category": "sport"
+        },
+        {
+            "id": "20",
+            "en": "goal",
+            "es": "gol",
+            "fr": "but",
+            "pl": "bramka",
+            "category": "sport"
+        },
+        {
+            "id": "21",
+            "en": "basket",
+            "es": "canasta",
+            "fr": "panier",
+            "pl": "kosz",
+            "category": "sport"
+        },
+        {
+            "id": "22",
+            "en": "racket",
+            "es": "raqueta",
+            "fr": "raquette",
+            "pl": "rakieta",
+            "category": "sport"
+        },
+        {
+            "id": "23",
+            "en": "ball",
+            "es": "pelota",
+            "fr": "balle",
+            "pl": "piłka",
+            "category": "sport"
+        },
+        {
+            "id": "24",
+            "en": "net",
+            "es": "red",
+            "fr": "filet",
+            "pl": "siatka",
+            "category": "sport"
+        },
+        {
+            "id": "25",
+            "en": "athlete",
+            "es": "atleta",
+            "fr": "athlète",
+            "pl": "lekkoatleta",
+            "category": "sport"
+        },
+        {
+            "id": "26",
+            "en": "race",
+            "es": "carrera",
+            "fr": "course",
+            "pl": "wyścig",
+            "category": "sport"
+        },
+        {
+            "id": "27",
+            "en": "medal",
+            "es": "medalla",
+            "fr": "médaille",
+            "pl": "medal",
+            "category": "sport"
+        },
+        {
+            "id": "28",
+            "en": "champion",
+            "es": "campeón",
+            "fr": "champion",
+            "pl": "mistrz",
+            "category": "sport"
+        },
+        {
+            "id": "29",
+            "en": "teamwork",
+            "es": "trabajo en equipo",
+            "fr": "travail d'équipe",
+            "pl": "praca zespołowa",
+            "category": "sport"
+        },
+        {
+            "id": "30",
+            "en": "athletic",
+            "es": "atlético",
+            "fr": "athlétique",
+            "pl": "sportowy",
+            "category": "sport"
+        },
+        {
+            "id": "31",
+            "en": "exercise",
+            "es": "ejercicio",
+            "fr": "exercice",
+            "pl": "ćwiczenie",
+            "category": "sport"
+        },
+        {
+            "id": "32",
+            "en": "fitness",
+            "es": "aptitud física",
+            "fr": "forme physique",
+            "pl": "forma fizyczna",
+            "category": "sport"
+        },
+        {
+            "id": "33",
+            "en": "sportsmanship",
+            "es": "deportividad",
+            "fr": "fair-play",
+            "pl": "duch sportu",
+            "category": "sport"
+        },
+        {
+            "id": "34",
+            "en": "referee",
+            "es": "árbitro",
+            "fr": "arbitre",
+            "pl": "sędzia",
+            "category": "sport"
+        },
+        {
+            "id": "35",
+            "en": "stadium",
+            "es": "estadio",
+            "fr": "stade",
+            "pl": "stadion",
+            "category": "sport"
+        },
+        {
+            "id": "36",
+            "en": "cheer",
+            "es": "animar",
+            "fr": "encourager",
+            "pl": "kibicować",
+            "category": "sport"
+        },
+        {
+            "id": "37",
+            "en": "overtime",
+            "es": "tiempo extra",
+            "fr": "prolongation",
+            "pl": "dogrywka",
+            "category": "sport"
+        },
+        {
+            "id": "38",
+            "en": "half-time",
+            "es": "medio tiempo",
+            "fr": "mi-temps",
+            "pl": "przerwa",
+            "category": "sport"
+        },
+        {
+            "id": "39",
+            "en": "dribble",
+            "es": "regatear",
+            "fr": "dribbler",
+            "pl": "dryblować",
+            "category": "sport"
+        },
+        {
+            "id": "40",
+            "en": "pass",
+            "es": "pase",
+            "fr": "passe",
+            "pl": "podanie",
+            "category": "sport"
+        },
+        {
+            "id": "41",
+            "en": "shoot",
+            "es": "tirar",
+            "fr": "tirer",
+            "pl": "strzelać",
+            "category": "sport"
+        },
+        {
+            "id": "42",
+            "en": "score",
+            "es": "marcar",
+            "fr": "marquer",
+            "pl": "zdobyć punkt",
+            "category": "sport"
+        },
+        {
+            "id": "43",
+            "en": "win",
+            "es": "ganar",
+            "fr": "gagner",
+            "pl": "wygrać",
+            "category": "sport"
+        },
+        {
+            "id": "44",
+            "en": "lose",
+            "es": "perder",
+            "fr": "perdre",
+            "pl": "przegrać",
+            "category": "sport"
+        },
+        {
+            "id": "45",
+            "en": "draw",
+            "es": "empate",
+            "fr": "match nul",
+            "pl": "remis",
+            "category": "sport"
+        },
+        {
+            "id": "46",
+            "en": "injury",
+            "es": "lesión",
+            "fr": "blessure",
+            "pl": "kontuzja",
+            "category": "sport"
+        },
+        {
+            "id": "47",
+            "en": "tackle",
+            "es": "tacle",
+            "fr": "tacle",
+            "pl": "atakować",
+            "category": "sport"
+        },
+        {
+            "id": "48",
+            "en": "defense",
+            "es": "defensa",
+            "fr": "défense",
+            "pl": "obrona",
+            "category": "sport"
+        },
+        {
+            "id": "49",
+            "en": "offense",
+            "es": "ofensa",
+            "fr": "offense",
+            "pl": "atak",
+            "category": "sport"
+        },
+        {
+            "id": "50",
+            "en": "championship",
+            "es": "campeonato",
+            "fr": "championnat",
+            "pl": "mistrzostwa",
+            "category": "sport"
+        }
+    ]
+}
